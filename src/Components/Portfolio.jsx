@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/respberries.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "respberries image with on screen looks fresh";
 
 /**
  * Project list
@@ -31,28 +31,24 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "Student Management System",
+    description: " create student management system.",
+    url: "https://www.linkedin.com/feed/update/urn:li:activity:7088161584254005248?utm_source=share&utm_medium=member_desktop",
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    title: "Simple Calculator",
+    description: "Create calculator by usking HTML,CSS and JS.",
+    url: "https://github.com/ZainabMari",
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    title: "Registratiob form",
+    description: "create a Registration Form Whose Data Display In Same Page.",
+    url: "https://www.linkedin.com/feed/update/urn:li:activity:7082049958085824512?utm_source=share&utm_medium=member_desktop",
   },
   {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "To do list web app ",
+    description: "TO-DO-LIST WEB APP by using of html and css.",
+    url: "https://www.linkedin.com/feed/update/urn:li:activity:7081986046569119745?utm_source=share&utm_medium=member_desktop",
   },
 ];
 
